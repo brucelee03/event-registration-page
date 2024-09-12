@@ -1,0 +1,79 @@
+.initial-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 33px;
+  padding: 15px;
+}
+.initial-state-description {
+  color: #64748b;
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+}
+.yet-to-registration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 25px;
+  margin-top: 30%;
+}
+.yet-to-register-img {
+  width: 352px;
+}
+.yet-to-registration-description {
+  font-size: 21px;
+  color: #3a4b63;
+  width: 80%;
+}
+.registration-btn {
+  border-width: 0;
+  background-color: #0967d2;
+  width: 80%;
+  height: 48px;
+  border-radius: 10px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.registration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50%;
+  padding: 20px;
+}
+.registered-img {
+  width: 115px;
+}
+.registrated-title {
+  color: #475569;
+}
+
+.close-registration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30%;
+  gap: 18px;
+}
+.registrations-closed-img {
+  width: 352px;
+}
+.closing-title {
+  color: #475569;
+  margin-bottom: 11px;
+  font-size: 30px;
+}
+.closing-description {
+  color: #3a4b63;
+  margin: 0;
+  font-size: 20px;
+  width: 80%;
+}

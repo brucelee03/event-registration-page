@@ -1,0 +1,33 @@
+.bg-container {
+  display: flex;
+  font-family: 'Roboto';
+  overflow-y: auto;
+}
+.event-container {
+  background-color: #323f4b;
+  background-size: cover;
+  min-height: 100vh;
+  width: 60%;
+  padding: 27px 37px;
+}
+.main-heading {
+  color: #f8fafc;
+  font-size: 32px;
+  margin-top: 0;
+}
+.event-list-container {
+  list-style-type: none;
+  margin-left: -41px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.event-registration-container {
+  width: 40%;
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}

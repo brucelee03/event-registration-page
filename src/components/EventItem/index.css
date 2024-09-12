@@ -1,0 +1,28 @@
+.event-item-card {
+  width: 326px;
+}
+.event-btn {
+  border-width: 0;
+  background-color: transparent;
+}
+.event-btn:focus {
+  outline: none;
+}
+.event-img {
+  width: 100%;
+}
+.title {
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 24px;
+  margin: 7px;
+}
+.event-card-border-style {
+  border: solid 2.5px #2dd4bf;
+  border-radius: 10px;
+}
+.location {
+  color: #ffffff;
+  font-size: 19px;
+  margin: 5px 0px 10px 7px;
+}
